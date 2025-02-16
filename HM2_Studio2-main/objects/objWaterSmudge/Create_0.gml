@@ -1,0 +1,9 @@
+image_speed=0
+sprite_index=choose(sprWaterSmudge1,sprWaterSmudge2,sprWaterSmudge3)
+target=sprite_get_number(sprite_index)
+alarm[0]=1+random(14)
+friction=0.15
+image_xscale=0.9+random(0.2)
+image_yscale=image_xscale
+//image_blend=c_maroon
+done=0

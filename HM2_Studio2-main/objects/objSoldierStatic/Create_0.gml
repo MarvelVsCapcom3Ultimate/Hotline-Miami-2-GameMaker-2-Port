@@ -1,0 +1,3 @@
+scrInitSoldierStatic()
+scrGetAmmo()
+

@@ -1,0 +1,10 @@
+image_speed=0
+sprite_index=choose(sprWaterSplat1,sprWaterSplat2,sprWaterSplat3,sprWaterSplat4)
+target=sprite_get_number(sprite_index)
+alarm[0]=random(15)
+friction=0.15
+image_angle=random(360)
+image_xscale=0.8+random(0.4)
+image_yscale=image_xscale
+//image_blend=c_maroon
+done=0

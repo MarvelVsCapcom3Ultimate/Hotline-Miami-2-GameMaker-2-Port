@@ -1,0 +1,1 @@
+if sprite_index=sprPerturbatorDance1 or sprite_index=sprPerturbatorDance2 sprite_index=choose(sprPerturbatorDance1,sprPerturbatorDance1,sprPerturbatorDance1,sprPerturbatorDance1,sprPerturbatorDance1,sprPerturbatorDance1,sprPerturbatorDance2)

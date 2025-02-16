@@ -1,0 +1,9 @@
+image_speed=0
+height=6
+wait=120
+image_alpha=0
+index=0
+blood=0
+dead=0
+killed=0
+shake=0

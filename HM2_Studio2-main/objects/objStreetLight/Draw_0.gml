@@ -1,0 +1,5 @@
+draw_set_blend_mode(bm_add)
+//draw_ellipse_color(x-24,y+78,x+24,y,merge_color(merge_color(c_yellow,c_white,0.5),c_black,0.5),c_black,0)
+draw_ellipse_color(x-40,y+100,x+40,y-22,merge_color(merge_color(c_yellow,c_white,0.5),c_black,0.5),c_black,0)
+draw_set_blend_mode(bm_normal)
+draw_sprite_ext(sprite_index,1,x,y,image_xscale,image_yscale,image_angle,image_blend,image_alpha)

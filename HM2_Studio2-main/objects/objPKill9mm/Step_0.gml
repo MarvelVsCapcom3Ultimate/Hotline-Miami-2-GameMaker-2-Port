@@ -1,0 +1,26 @@
+if image_index>=10 and dead=0 {
+if sprite_index=sprCopKill9mm sound_play(snd9mm)
+if sprite_index=sprCopKillSilencer sound_play(sndSilencer)
+sound_play(sndHit)
+scrHearPlayer()
+ammo-=1
+global.shake=5
+repeat (2+random(3)) {
+my_id=instance_create(x+lengthdir_x(17,image_angle)-1+random(2),y+lengthdir_y(17,image_angle)-1+random(2),objBloodSquirt)
+my_id.image_angle=image_angle-120+random(240)
+}
+repeat (3) instance_create(x+lengthdir_x(17,image_angle),y+lengthdir_y(17,image_angle),objBigBlood)
+targetindex=3
+index=1
+dead=1
+}
+
+if index<targetindex index+=0.25
+if index=3 {
+my_id=instance_create(x,y,objDeadBody)
+my_id.sprite_index=sprite
+my_id.image_index=targetindex
+my_id.image_angle=image_angle
+scrPlayerExecuteFinish()
+instance_destroy()
+}

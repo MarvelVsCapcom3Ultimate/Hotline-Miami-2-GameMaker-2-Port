@@ -1,0 +1,4 @@
+scrInitGangStatic()
+if sprite_index=sprEMafiaWalkM16 sprite_index=choose(sprEMafiaWalkM16,sprEMafiaWalkShotgun,sprEMafiaWalkDoubleBarrel,sprEMafiaWalkKalashnikov)
+scrGetAmmo()
+

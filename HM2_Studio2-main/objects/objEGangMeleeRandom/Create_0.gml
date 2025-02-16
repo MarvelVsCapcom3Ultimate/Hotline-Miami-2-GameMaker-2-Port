@@ -1,0 +1,2 @@
+scrInitGangRandom()
+sprite_index=choose(sprEGangWalkKnife,sprEGangWalkChain,sprEGangWalkPipe,sprEGangWalkBat)

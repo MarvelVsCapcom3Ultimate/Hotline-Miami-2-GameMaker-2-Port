@@ -1,0 +1,9 @@
+image_speed=0
+bottom=instance_create(x,y,objMilitaryJeepUSARoof)
+bottom.image_angle=image_angle
+done=0
+on=0
+wait=0
+start=30
+enter=0
+startsound=0

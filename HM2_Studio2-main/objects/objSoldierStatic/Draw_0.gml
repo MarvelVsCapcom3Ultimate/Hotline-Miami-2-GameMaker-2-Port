@@ -1,0 +1,1 @@
+scrDrawEnemy(sprSoldierLegs)

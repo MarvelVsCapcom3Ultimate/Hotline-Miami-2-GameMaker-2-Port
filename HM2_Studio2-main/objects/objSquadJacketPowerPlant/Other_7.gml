@@ -1,0 +1,1 @@
+if sprite_index=sprSquadJacketCallForHelp image_speed=0

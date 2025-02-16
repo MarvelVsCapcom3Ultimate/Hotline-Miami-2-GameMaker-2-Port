@@ -1,0 +1,2 @@
+scrLoadLevel()
+scrLoadTiles(global.tiles)

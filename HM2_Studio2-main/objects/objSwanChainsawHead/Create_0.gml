@@ -1,0 +1,10 @@
+attack=1
+dir=0
+sway=0
+image_speed=0
+dead=0
+image_xscale=1.5
+image_yscale=1.5
+blink=8
+wait2=15
+init=0

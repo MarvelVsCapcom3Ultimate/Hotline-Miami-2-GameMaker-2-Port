@@ -1,0 +1,2 @@
+image_index=4
+image_angle=180

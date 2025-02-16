@@ -1,0 +1,1 @@
+sprite_index=choose(sprVictim45Idle1,sprVictim45Idle1,sprVictim45Idle1,sprVictim45Idle2)

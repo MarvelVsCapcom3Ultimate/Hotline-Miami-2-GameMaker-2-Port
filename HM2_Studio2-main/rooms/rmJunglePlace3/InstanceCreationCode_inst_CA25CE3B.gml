@@ -1,0 +1,13 @@
+areas=3
+areax1[0]=64
+areay1[0]=64
+areax2[0]=232
+areay2[0]=256
+areax1[1]=416
+areay1[1]=64
+areax2[1]=584
+areay2[1]=256
+areax1[2]=64
+areay1[2]=256
+areax2[2]=584
+areay2[2]=456

@@ -1,0 +1,17 @@
+areas=4
+areax1[0]=96
+areay1[0]=64
+areax2[0]=264
+areay2[0]=160
+areax1[1]=96
+areay1[1]=160
+areax2[1]=360
+areay2[1]=264
+areax1[2]=448
+areay1[2]=192
+areax2[2]=616
+areay2[2]=320
+areax1[3]=384
+areay1[3]=320
+areax2[3]=616
+areay2[3]=456

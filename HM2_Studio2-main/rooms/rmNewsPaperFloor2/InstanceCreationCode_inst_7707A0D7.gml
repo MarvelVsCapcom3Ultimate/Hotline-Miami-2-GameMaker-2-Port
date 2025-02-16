@@ -1,0 +1,4 @@
+sprite_index=sprElevatorUp
+movex=0
+movey=160
+nextroom=rmNewsPaperFloor3

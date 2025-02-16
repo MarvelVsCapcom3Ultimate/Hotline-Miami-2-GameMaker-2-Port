@@ -1,0 +1,2 @@
+scrInitGangPatrol()
+if sprite_index=sprEMafiaWalkClub sprite_index=choose(sprEMafiaWalkKnife,sprEMafiaWalkClub,sprEMafiaWalkBat)

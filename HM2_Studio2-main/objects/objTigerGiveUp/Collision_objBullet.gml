@@ -1,0 +1,10 @@
+scrMeleeBlood(x,y)
+scrMeleeBlood(x,y)
+my_id=instance_create(x,y,objDeadBody)
+my_id.image_angle=other.direction
+my_id.speed=1.5
+my_id.friction=0.15
+my_id.direction=other.direction
+my_id.sprite_index=sprTigerDeadMachinegun
+my_id.image_index=2
+instance_destroy()

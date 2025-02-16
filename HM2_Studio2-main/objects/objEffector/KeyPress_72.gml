@@ -1,0 +1,1 @@
+global.hud = !global.hud;

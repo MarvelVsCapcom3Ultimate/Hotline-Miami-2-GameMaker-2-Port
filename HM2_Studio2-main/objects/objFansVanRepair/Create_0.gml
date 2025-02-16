@@ -1,0 +1,10 @@
+image_speed=0.125
+state=0
+wait=60
+start=0
+enter=0
+dir=0
+corpse=instance_create(x,y,objPlayerDead)
+corpse.visible=0
+bottom=instance_create(x,y,objFansVanBottom)
+bottom.sprite_index=sprFansVanBottom2

@@ -1,0 +1,11 @@
+ammo=15
+image_speed=0
+wait=0
+legindex=0
+path=path_add()
+lookreload=10
+left=1
+reload=0
+giveupwait=60
+gotoplayer=0
+active=1

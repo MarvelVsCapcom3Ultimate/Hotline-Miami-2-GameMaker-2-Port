@@ -1,0 +1,9 @@
+doorindex=0
+trunkindex=0
+my_id=instance_create(x,y,objTaxiFloor)
+my_id.image_angle=image_angle
+done=0
+image_speed=0
+wait=0
+start=30
+enter=0

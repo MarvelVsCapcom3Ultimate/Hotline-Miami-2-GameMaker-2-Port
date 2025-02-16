@@ -1,0 +1,2 @@
+scrInitSoldierRandomMelee()
+if sprite_index=sprColombianWalkPipe sprite_index=choose(sprColombianWalkKnife,sprColombianWalkMachete,sprColombianWalkPipe)

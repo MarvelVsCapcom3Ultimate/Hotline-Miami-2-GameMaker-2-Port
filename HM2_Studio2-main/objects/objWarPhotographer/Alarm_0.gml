@@ -1,0 +1,1 @@
+if sprite_index=sprWarPhotographerPhoto1 image_speed=0.125

@@ -1,0 +1,21 @@
+surf=surface_create(room_width,room_height)
+surface_set_target(surf)
+draw_clear_alpha(c_black,0)
+surface_reset_target()
+title=global.parttitle
+i=0
+repeat (string_length(title)) {
+rise[i]=-10-i
+i+=1
+}
+dir=0
+blend=0
+prefixblend=0
+prefix=global.partsubtitle
+sunalpha=0
+sunshine=0
+//scrInitNoise()
+amount=0
+fade=0
+wait=0
+alarm[0]=480

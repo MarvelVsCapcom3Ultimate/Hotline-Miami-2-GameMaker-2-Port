@@ -1,0 +1,15 @@
+hspeed=18
+reload=0
+state=0
+x=-18*100
+image_speed=0.5
+starty=y
+targety=starty
+dir=0
+wait=200
+vol=1
+play=0
+alpha=1
+stop=0
+movex=y
+movey=0

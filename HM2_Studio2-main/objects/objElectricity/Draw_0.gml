@@ -1,0 +1,6 @@
+draw_set_blend_mode(bm_add)
+if image_index>2 draw_sprite_ext(sprite_index,image_index-2,x,y,image_xscale,image_yscale,image_angle,merge_color(c_teal,c_navy,random(1)),image_alpha)
+if image_index>1 draw_sprite_ext(sprite_index,image_index-1,x,y,image_xscale,image_yscale,image_angle,merge_color(c_aqua,c_teal,random(1)),image_alpha)
+draw_sprite_ext(sprite_index,image_index,x,y,image_xscale,image_yscale,image_angle,merge_color(c_white,c_aqua,random(1)),image_alpha)
+repeat (4) draw_sprite_ext(sprite_index,image_index,x-1+random(2),y-1+random(2),image_xscale,image_yscale,image_angle,merge_color(c_teal,c_navy,random(1)),image_alpha)
+draw_set_blend_mode(bm_normal)

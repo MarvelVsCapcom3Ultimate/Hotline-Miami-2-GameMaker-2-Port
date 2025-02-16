@@ -1,0 +1,11 @@
+image_speed=0
+state=0
+path=path_add()
+shot=0
+image_angle=270
+with objChairWood image_index=0
+vol=1
+done=0
+campos=0
+camspeed=0
+mydir=0

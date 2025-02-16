@@ -1,0 +1,11 @@
+image_angle=random(360)
+h=floor(random(255))
+image_blend=make_color_hsv(h,255,255)
+dir=0
+on=1
+angle=image_angle
+sprite_index=choose(sprLSDPop1,sprLSDPop2)
+diradd=-1+round(random(1))*2
+image_speed=0.35
+image_index=random(8)
+life=40

@@ -1,0 +1,3 @@
+sprite_index=choose(sprColombianWalkFamae,sprColombianWalkSilencer,sprColombianWalkMendoza,sprColombianWalkFamae,sprColombianWalkSilencer,sprColombianWalkMendoza,sprColombianWalkMachete)
+image_speed=0
+image_angle=point_direction(x,y,room_width/2,room_height*0.35)

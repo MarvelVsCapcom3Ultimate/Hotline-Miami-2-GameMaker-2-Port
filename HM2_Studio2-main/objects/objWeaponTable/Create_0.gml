@@ -1,0 +1,17 @@
+image_index=random(sprite_get_number(sprite_index))
+image_speed=0
+weapon[0]=sprM16
+weapon[1]=sprShotgun
+weapon[2]=sprHeavy
+weapon[3]=sprSniperRifle
+weapon[4]=sprFlameThrower
+taken[0]=0
+taken[1]=0
+taken[2]=0
+taken[3]=0
+taken[4]=0
+weapons=5
+dir=0
+current=-1
+on=0
+global.magammo=0

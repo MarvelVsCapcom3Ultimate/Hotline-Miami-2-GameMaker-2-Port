@@ -1,0 +1,2 @@
+scrInitSoldierPatrol()
+if sprite_index=sprColombianWalkMachete sprite_index=choose(sprColombianWalkKnife,sprColombianWalkMachete,sprColombianWalkPipe)

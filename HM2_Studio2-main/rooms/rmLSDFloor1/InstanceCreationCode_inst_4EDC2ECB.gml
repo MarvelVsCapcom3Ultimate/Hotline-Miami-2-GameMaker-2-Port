@@ -1,0 +1,3 @@
+image_angle=270
+sprite_index=sprEMafiaDeadMachinegun
+image_index=5

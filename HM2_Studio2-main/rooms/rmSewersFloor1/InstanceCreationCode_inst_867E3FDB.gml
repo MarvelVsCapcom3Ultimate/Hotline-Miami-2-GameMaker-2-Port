@@ -1,0 +1,3 @@
+image_yscale=13
+sprite=sprSewerFloorCorner
+index=1

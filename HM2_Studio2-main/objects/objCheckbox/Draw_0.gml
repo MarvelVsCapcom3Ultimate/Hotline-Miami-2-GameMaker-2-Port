@@ -1,0 +1,8 @@
+draw_sprite_ext(sprite_index,0,x,y,1,1,0,merge_color(c_fuchsia,c_purple,0.5+lengthdir_x(0.5,dir)),1)
+if on draw_sprite_ext(sprite_index,1,x,y,1,1,0,merge_color(c_fuchsia,c_purple,0.5-lengthdir_x(0.5,dir)),1)
+draw_set_color(c_black)
+draw_set_font(fntEditor)
+draw_set_halign(fa_left)
+draw_text(x+18,y+1,string_hash_to_newline(label))
+draw_set_color(merge_color(c_aqua,c_white,0.25+lengthdir_x(0.25,dir)))
+draw_text(x+16,y-1,string_hash_to_newline(label))

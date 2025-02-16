@@ -1,0 +1,2 @@
+image_angle=270
+sprite_index=sprPoliceWalkUnarmed

@@ -1,0 +1,3 @@
+image_yscale=6
+sprite=sprSewerFloorJunction
+index=1

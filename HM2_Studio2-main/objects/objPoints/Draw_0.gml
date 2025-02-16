@@ -1,0 +1,5 @@
+draw_surface_ext(surface,x-64,y-96-1,1,1,0,merge_color(c_black,c_red,amount),1)
+draw_surface_ext(surface,x-64,y-96+1,1,1,0,merge_color(c_black,c_red,amount),1)
+draw_surface_ext(surface,x-64-1,y-96,1,1,0,merge_color(c_black,c_red,amount),1)
+draw_surface_ext(surface,x-64+1,y-96,1,1,0,merge_color(c_black,c_red,amount),1)
+draw_surface_ext(surface,x-64,y-96,1,1,0,c_white,1)

@@ -1,0 +1,11 @@
+{
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "scrMusicClose",
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Music",
+    "path": "folders/Scripts/Music.yy",
+  },
+}

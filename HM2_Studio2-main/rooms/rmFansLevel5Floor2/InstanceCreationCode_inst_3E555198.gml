@@ -1,0 +1,2 @@
+sprite_index=sprEMafiaWalkKalashnikov
+direction=180

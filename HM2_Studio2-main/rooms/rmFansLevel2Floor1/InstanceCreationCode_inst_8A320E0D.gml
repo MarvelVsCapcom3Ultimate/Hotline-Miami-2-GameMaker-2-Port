@@ -1,0 +1,1 @@
+image_angle=90-10+random(20)

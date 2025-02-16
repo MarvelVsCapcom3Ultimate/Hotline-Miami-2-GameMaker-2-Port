@@ -1,0 +1,17 @@
+image_speed=0
+alpha=0
+index=0
+dir=0
+amount=0
+wait=45
+on=1
+done=0
+wait2=45
+stage=0
+sound_play(sndHeartBeat)
+vol=1
+sound_play(sndLevelComplete)
+scrStopSong()
+scrPlaySong(Videodrome);
+movex=0
+movey=0

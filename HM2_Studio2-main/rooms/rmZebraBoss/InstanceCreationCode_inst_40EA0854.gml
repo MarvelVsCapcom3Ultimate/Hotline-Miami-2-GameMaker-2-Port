@@ -1,0 +1,1 @@
+shotdir=0

@@ -1,0 +1,9 @@
+areas=2
+areax1[0]=128
+areax2[0]=360
+areay1[0]=96
+areay2[0]=160
+areax1[1]=128
+areax2[1]=552
+areay1[1]=160
+areay2[1]=392

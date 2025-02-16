@@ -1,0 +1,3 @@
+sprite_index=sprMaskDropFansFront
+image_index=3
+image_angle=random(360)

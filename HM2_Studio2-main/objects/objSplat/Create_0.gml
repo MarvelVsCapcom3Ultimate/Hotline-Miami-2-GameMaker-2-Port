@@ -1,0 +1,10 @@
+image_speed=0
+sprite_index=choose(sprSplat1,sprSplat2,sprSplat3,sprSplat4)
+target=sprite_get_number(sprite_index)
+alarm[0]=random(15)
+friction=0.15
+image_angle=random(360)
+image_xscale=0.8+random(0.4)
+image_yscale=image_xscale
+//image_blend=c_maroon
+done=0

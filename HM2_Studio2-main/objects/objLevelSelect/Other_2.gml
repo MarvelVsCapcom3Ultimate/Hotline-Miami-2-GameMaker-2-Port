@@ -1,0 +1,2 @@
+scrInitMusic()
+scrPlaySong(beams)

@@ -1,0 +1,10 @@
+global.shake=5
+my_id=instance_create(x,y,objEnemyCrawl)
+my_id.sprite_index=sprVictim5Crawl
+my_id.direction=other.direction
+my_id.speed=1+random(2)
+my_id.friction=0.15
+my_id.alarm[0]=6
+my_id.image_angle=my_id.direction
+scrMeleeBlood(x,y)
+instance_destroy()

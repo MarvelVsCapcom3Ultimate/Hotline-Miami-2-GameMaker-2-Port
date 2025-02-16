@@ -1,0 +1,9 @@
+path=path_add()
+image_speed=0
+dir=0
+state=0
+legindex=0
+wait=150
+campos=0
+camspeed=0
+vol=0

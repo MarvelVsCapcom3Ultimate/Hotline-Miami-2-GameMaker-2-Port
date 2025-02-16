@@ -1,0 +1,3 @@
+image_angle=270
+sprite_index=sprFansVanRepairHQ
+image_speed=0.15

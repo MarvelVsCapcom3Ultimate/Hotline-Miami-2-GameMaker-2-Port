@@ -1,0 +1,1 @@
+scrCenterOn(objPlayer.x,objPlayer.y)

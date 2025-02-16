@@ -1,0 +1,1 @@
+objEffector.amount=180

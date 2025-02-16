@@ -1,0 +1,14 @@
+dir=random(360)
+dist=0
+change=0
+select=0
+active=0
+myx=x
+level=0
+addx=0
+factor=1
+vhsfactor=1
+index1=0
+index2=0
+open=1
+coverx=0

@@ -1,0 +1,4 @@
+scrInitSoldierStatic()
+if sprite_index=sprColombianWalkMendoza sprite_index=choose(sprColombianWalkMendoza,sprColombianWalkFamae,sprColombianWalkShotgun,sprColombianWalkSilencer)
+scrGetAmmo()
+
